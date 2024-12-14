@@ -33,8 +33,9 @@ The AI uses these to:
 Reference materials and learning tools:
 - `code_samples/`: Example implementations
 - `practice_problems/`: 
-  - `active/`: Current problems (dated format: YYYY-MM-DD-problem-name.md)
+  - `active/`: Current problems (dated directories: YYYY-MM-DD-problem-name/)
   - `solved/`: Completed problems with verified solutions
+  - `_templates/`: Templates for standard problem files
 - `code_patterns/`: Professional development patterns
 
 The AI references these to:
@@ -110,16 +111,30 @@ Session management and workflows:
 
 ### For Practice Problems
 1. New problems:
-   - Created in `active/` with date prefix
+   - Created in `active/` with dated directory structure (YYYY-MM-DD-problem-name/)
+   - Each problem directory contains:
+     - `requirements.md`: Primary problem specification and description
+     - `problem.md`: Context and learning objectives
+     - `attempt.rb`: Current working solution
+     - `test_data.rb`: Test cases and data
+     - `notes.md`: Progress tracking and insights
+   - Templates available in `_templates/`
    - Aligned with current mastery level
    - Connected to project when possible
-   - Include clear test cases
 
-2. Upon completion:
+2. Problem workflow:
+   - AI creates complete directory with all files
+   - Requirements presented as primary description
+   - Progress tracked in notes.md
+   - Tests maintained in test_data.rb
+   - Solutions developed in attempt.rb
+
+3. Upon completion:
    - Verify solution
-   - Move to `solved/` directory
-   - Append verified solution
-   - Add completion date
+   - Move directory to `solved/`
+   - Rename attempt.rb to solution.rb
+   - Convert notes.md to learnings.md
+   - Add completion date and status
 
 ### For Project Development
 1. Follow roadmap progression
