@@ -144,6 +144,14 @@ def add_compatible_paces(players)
     end
 end
 
+def handicaps_overlap?(player1, player2)
+    player1[:metadata][:handicap_range].overlap?(player2[:metadata][:handicap_range])
+end
+
+def pace_compatible?(player1, player2)
+    player1[:metadata][:compatible_paces].include?(player2[:preferences][:pace_of_play]) && player2[:metadata][:compatible_paces].include?(player1[:preferences][:pace_of_play])
+end
+
 ### Execution ###
 
 find_compatible_groups(TEST_PLAYERS, 2)
