@@ -1,5 +1,9 @@
 # Session Startup Checklist
 
+## Important: Brain Maintenance Rules
+Before making any modifications to the brain, review _context/brain_maintenance_rules.md.
+All changes must follow established modification protocols.
+
 ## 1. Initial Check (AI Assistant)
 Upon hearing "Claude, let's begin today's Building_the_App session":
 
@@ -53,10 +57,20 @@ If any files are inaccessible:
    - Start main tasks
 
 ## File Naming Conventions
-- Daily Logs: YYYY-MM-DD.md
-- Additional Daily Logs: YYYY-MM-DD-descriptor.md
-- Practice Problems: YYYY-MM-DD-problem-name.md
-- Assessments: language_mastery.md
+Daily Logs:
+- Single session per day: YYYY-MM-DD.md
+- Multiple sessions per day: YYYY-MM-DD-session-N.md (where N is 1, 2, 3...)
+- Example:
+  - First session: 2024-12-14.md
+  - Second session: 2024-12-14-session-2.md
+  - Third session: 2024-12-14-session-3.md
+
+Practice Problems:
+- New problems: YYYY-MM-DD-problem-name.md
+- Solved problems maintain original date: YYYY-MM-DD-problem-name.md
+
+Assessments:
+- language_mastery.md (e.g., ruby_mastery.md)
 
 ## Communication Guidelines
 The AI should:
