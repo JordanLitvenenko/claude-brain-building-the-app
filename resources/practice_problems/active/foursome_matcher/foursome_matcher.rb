@@ -56,6 +56,10 @@ def find_compatible_groups(players, minimum_groups)
     
     walking_players_enriched = enrich_player_data(walking_players)
     riding_players_enriched = enrich_player_data(riding_players)
+
+    foursomes_walkers = []
+    
+
     
     # # Output enriched test data
     # File.open("test_players_enriched.rb", "w") do |file|

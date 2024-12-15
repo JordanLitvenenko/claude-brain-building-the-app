@@ -56,11 +56,11 @@ Upon hearing "Claude, let's wrap up today's Building_the_App session":
 
 ## Communication Guidelines
 The AI should:
-- Take initiative in identifying valuable information
-- Proactively update documentation
-- Maintain organization structure
-- Ensure comprehensive capture of insights
-- Make autonomous decisions about storage
+- Analyze needed updates and present them clearly to learner
+- Specify which files need changes and what changes are needed
+- Provide update content in a copy-able format
+- Only directly create new, small files
+- Guide learner through update process
 
 The learner should:
 - Confirm understanding of progress
@@ -68,8 +68,22 @@ The learner should:
 - Acknowledge next steps
 - Share any final thoughts or concerns
 
+## Update Process
+### For Existing Files:
+1. AI analyzes needed changes
+2. AI presents:
+   - List of files requiring updates
+   - Specific changes needed for each
+   - Content in copy-ready format
+3. Learner makes the actual file updates
+4. AI verifies changes if requested
+
+### For New Files:
+1. AI can directly create new files if they are small
+2. For larger files, AI will provide content for learner to create
+
 ## End of Day File Updates
-The AI should review and update as needed:
+AI should analyze and prepare updates for:
 1. Daily log
 2. Mastery assessments
 3. Practice problems status
@@ -80,6 +94,8 @@ The AI should review and update as needed:
 8. Teaching patterns
 9. Connection documentation
 10. Any other relevant files
+
+Learner will execute updates based on AI's guidance.
 
 ## Final Verification
 - [ ] All valuable information captured
