@@ -1,0 +1,196 @@
+{
+  "main": {
+    "id": "5699977673375c22",
+    "type": "split",
+    "children": [
+      {
+        "id": "14fbb8588c0d17a7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e2e623b2a1fe3fa2",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "da3cecd0c089c323",
+    "type": "split",
+    "children": [
+      {
+        "id": "22880f7b3c92840e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "eae1ecfeb9f540eb",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "ac8568482435ccc7",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "1dd94e679fce7023",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 253.5
+  },
+  "right": {
+    "id": "ed5ffad9720bb012",
+    "type": "split",
+    "children": [
+      {
+        "id": "b6075919a808655a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9858180901c9b52b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "0991f0a8bdf454dd",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "47520b193fabfd78",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "490ea30ea3234c77",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {},
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "e2e623b2a1fe3fa2",
+  "lastOpenFiles": [
+    "Building_the_App/project/planning/app_concept_evolution.md",
+    "_system/brains/Building_the_App/resources/practice_problems/active/foursome_matcher/test_players_enriched.rb",
+    "_system/brains/Building_the_App/resources/practice_problems/active/foursome_matcher/test_players.rb",
+    "_system/brains/Building_the_App/resources/practice_problems/active/foursome_matcher/foursome_matcher.rb",
+    "_system/brains/Building_the_App/resources/practice_problems/active/foursome_matcher/REQUIREMENTS.md",
+    "_system/brains/Building_the_App/resources/practice_problems/active/foursome_matcher/2024-12-10-group-matcher.md",
+    "_system/brains/Building_the_App/resources/practice_problems/active/2024-12-10-group-matcher/test_data.rb",
+    "_system/brains/Building_the_App/resources/practice_problems/active/2024-12-10-group-matcher/requirements.md",
+    "_system/brains/Building_the_App/resources/practice_problems/active/2024-12-10-group-matcher/problem.md",
+    "_system/brains/Building_the_App/resources/practice_problems/active/2024-12-10-group-matcher/notes.md",
+    "_system/brains/Building_the_App/resources/practice_problems/active/2024-12-10-group-matcher/attempt.rb",
+    "_system/brains/Building_the_App/sessions/journal/daily_logs/2024-12-14-session.md",
+    "_system/brains/Building_the_App/resources/practice_problems/active/foursome_matcher",
+    "_system/brains/Building_the_App/resources/practice_problems/active/2024-12-10-group-matcher",
+    "_system/brains/Building_the_App/resources/practice_problems/_templates/test_data.rb",
+    "_system/brains/Building_the_App/resources/practice_problems/_templates/requirements.md",
+    "_system/brains/Building_the_App/resources/practice_problems/_templates/notes.md",
+    "_system/brains/Building_the_App/resources/practice_problems/_templates/problem.md",
+    "_system/brains/Building_the_App/progress/journal/daily_logs/2024-12-14.md",
+    "_system/brains/Building_the_App/progress/journal/daily_logs/2024-12-14-session-2.md",
+    "_system/brains/Building_the_App/progress/journal/daily_logs/2024-12-10.md",
+    "_system/brains/Building_the_App/chat_contexts/active/brain-enhancement-20241214-001/variables.md",
+    "_system/brains/Building_the_App/chat_contexts/active/brain-enhancement-20241214-001/state.md",
+    "_system/brains/Building_the_App/chat_contexts/active/brain-enhancement-20241214-001/decision_path.md",
+    "_system/brains/Building_the_App/chat_contexts/active/brain-enhancement-20241214-001/continuation.md",
+    "_system/brains/Building_the_App/sessions/workflows/startup_checklist.md",
+    "_system/brains/Building_the_App/sessions/workflows/shutdown_checklist.md",
+    "_system/brains/Building_the_App/sessions/workflows/session_management.md",
+    "_system/brains/Building_the_App/sessions/workflows/practice_problem_workflow.md",
+    "_system/brains/Building_the_App/sessions/templates/session_start.md",
+    "_system/brains/Building_the_App/sessions/templates/session_end.md",
+    "_system/brains/Building_the_App/sessions/journal/daily_logs",
+    "_system/brains/Building_the_App/resources/practice_problems/solved",
+    "_system/brains/Building_the_App/resources/practice_problems/README.md",
+    "_system/brains/Building_the_App/project/planning/app_concept_evolution.md",
+    "_system/brains/Building_the_App/progress/journal/key_insights.md"
+  ]
+}
