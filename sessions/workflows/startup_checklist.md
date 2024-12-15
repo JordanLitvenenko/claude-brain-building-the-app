@@ -4,50 +4,69 @@
 Upon hearing "Claude, let's begin today's Building_the_App session":
 
 ### Review Recent History
-- [ ] Check latest daily log
-- [ ] Review current mastery levels
-- [ ] Identify any active practice problems
-- [ ] Review previous session's end notes
+1. Find most recent daily log:
+   - List contents of daily_logs directory
+   - Identify most recent log by date
+   - Read and process latest log content
+2. Check current status:
+   - Review mastery levels in assessments/
+   - Identify active practice problems
+   - Verify project status
+   - Note current position in roadmap
 
 ### Status Assessment
-- [ ] Confirm current position in roadmap
-- [ ] Check active learning objectives
-- [ ] Review any pending challenges
-- [ ] Verify project status
+1. Process recent information:
+   - Understand current learning objectives
+   - Note any pending challenges
+   - Review recent insights
+   - Check project milestones
 
-### Session Preparation
-- [ ] Note current date and time
-- [ ] Create new daily log entry
-- [ ] Fill out session start template
-- [ ] Review planned objectives
+2. Prepare session context:
+   - Current date and timestamp
+   - Active learning goals
+   - Pending tasks or problems
+   - Recent progress
 
-## 2. Session Context (Together)
-- [ ] Discuss energy level and readiness
-- [ ] Review time available for session
-- [ ] Confirm session objectives
-- [ ] Address any immediate concerns
+### Error Handling
+If any files are inaccessible:
+1. Note the missing file
+2. Check alternative locations
+3. Create new file if necessary
+4. Document the resolution
 
-## 3. Learning Environment
-- [ ] Verify no immediate time constraints
-- [ ] Check for any technical prerequisites
-- [ ] Ensure resources are accessible
-- [ ] Set up any needed development environment
+## 2. Session Launch
+1. Provide status summary:
+   - Current position in learning journey
+   - Active challenges or problems
+   - Recent progress
+   - Planned objectives
 
-## 4. Session Launch
-- [ ] Summarize current status
-- [ ] Confirm learning objectives
-- [ ] Set clear expectations
-- [ ] Begin primary session work
+2. Verify session parameters:
+   - Check any time constraints
+   - Confirm learning objectives
+   - Note any specific focuses
+   - Address any concerns
+
+3. Begin primary session work:
+   - Summarize the plan
+   - Set clear expectations
+   - Start main tasks
+
+## File Naming Conventions
+- Daily Logs: YYYY-MM-DD.md
+- Additional Daily Logs: YYYY-MM-DD-descriptor.md
+- Practice Problems: YYYY-MM-DD-problem-name.md
+- Assessments: language_mastery.md
 
 ## Communication Guidelines
 The AI should:
-- Acknowledge session start explicitly
-- Provide status summary
-- Confirm understanding of objectives
-- Express any concerns or suggestions
+- Follow established workflows independently
+- Make autonomous decisions about documentation
+- Maintain clear session context
+- Proactively identify and store valuable information
 
-The learner should:
-- Indicate any specific focuses
-- Share current energy level
-- Note any time constraints
-- Express any concerns or preferences
+The learner can:
+- Indicate specific focuses or preferences
+- Share any constraints or concerns
+- Request clarification of status
+- Modify workflow as needed
