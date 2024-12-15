@@ -1,5 +1,9 @@
 # Session Shutdown Checklist
 
+## Important: Brain Maintenance Rules
+Before making any modifications to the brain, review _context/brain_maintenance_rules.md.
+All changes must follow established modification protocols.
+
 ## 1. Content Review (AI Assistant)
 Upon hearing "Claude, let's wrap up today's Building_the_App session":
 

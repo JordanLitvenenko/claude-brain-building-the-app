@@ -1,5 +1,13 @@
 # Building_the_App Brain
 
+## Brain Maintenance
+All modifications to this brain follow strict protocols defined in `_context/brain_maintenance_rules.md`. The AI assistant:
+- Never modifies existing files directly
+- Presents changes for human review
+- May create small new files directly
+- Presents larger file content for review
+See brain_maintenance_rules.md for complete protocol.
+
 ## Purpose
 This knowledge base serves as a specialized "brain" for the AI assistant (Claude), optimized for guiding a structured learning journey from Ruby fundamentals through to building a complete web application. The organization and content are specifically designed to help the AI maintain context, provide consistent assistance, and track progress effectively.
 
