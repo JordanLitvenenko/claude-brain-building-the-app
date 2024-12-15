@@ -38,6 +38,16 @@ If any files are inaccessible:
 3. Create new file if necessary
 4. Document the resolution
 
+### Learning Context Review
+1. Check learning preferences:
+   - Review _context/preferences/learning_style.md
+   - Note current theory/practice balance preference
+   - Review effective teaching approaches
+2. Review current constraints:
+   - Check time availability
+   - Note any learning constraints
+   - Consider energy level impact
+
 ## 2. Session Launch
 1. Provide status summary:
    - Current position in learning journey
