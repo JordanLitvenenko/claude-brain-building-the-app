@@ -28,3 +28,9 @@
 2. Report violation to human
 3. Await explicit instructions
 4. Do not attempt self-correction
+
+## Rule Priority
+1. System rules (this document)
+2. File handling rules
+3. Access control rules
+4. Brain-specific rules
