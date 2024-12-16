@@ -4,7 +4,7 @@
 1. Daily log entries
 2. New practice problems from templates
 3. Session markers
-4. Small initialization files
+4. Small initialization files (< 20 lines)
 
 ## Review Required For
 1. ANY modification to existing files
@@ -24,3 +24,15 @@
 2. Report all errors immediately
 3. Await human intervention
 4. Maintain last known good state
+
+## File Organization Rules
+1. Always create parent directories first
+2. Follow established naming conventions
+3. Maintain consistent file structure
+4. Use appropriate file extensions
+
+## Content Guidelines
+1. Clear headers and sections
+2. Consistent markdown formatting
+3. Proper indentation
+4. Clear documentation of purpose
